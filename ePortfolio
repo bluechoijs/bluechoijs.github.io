@@ -5,10 +5,13 @@
 <section>
 <form action="http://jsptogo.herokuapp.com/jspsrc/form Txltarea1.jsp" method="post">
 <fieldset>
-<legend>남기는 말</legend>
-<label for="wordx">입사후기:</label>
+<legend>향후 계획서</legend>
+<label for="wordx">감사합니다:</label>
 <textarea id="wordx"name="textareaWord"rows="10"cols="30">
-수강(예정)과목:c++프로그래밍,영상처리,모바일프로그래밍학기말 프로젝트 수행내역:없음자격증:없음캡스톤, 해카톤, 각종 교내외 경진대회, 동아리, 봉사활동 등:없음
+수강(예정)과목:c++프로그래밍,영상처리,모바일프로그래밍
+학기말 프로젝트 수행내역:없음
+자격증:없음
+캡스톤, 해카톤, 각종 교내외 경진대회, 동아리, 봉사활동 등:없음
 </textarea>
 <button type="submit">등록</button>
 <input type="reset"value="취소">
