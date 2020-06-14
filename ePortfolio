@@ -5,9 +5,9 @@
 <section>
 <form action="http://jsptogo.herokuapp.com/jspsrc/form Txltarea1.jsp" method="post">
 <fieldset>
-<legend>향후 계획서</legend>
-<label for="wordx">감사합니다:</label>
-<textarea id="wordx"name="textareaWord"rows="100"cols="300">
+<legend>계획서</legend>
+<label for="wordx">이력서:</label>
+<textarea id="wordx"name="textareaWord"rows="10"cols="30">
 수강(예정)과목:c++프로그래밍,영상처리,모바일프로그래밍
 학기말 프로젝트 수행내역:없음
 자격증:없음
